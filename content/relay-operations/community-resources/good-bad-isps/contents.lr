@@ -194,7 +194,6 @@ For network diversity and stronger anonymity, you should avoid providers and cou
 | [HostHatch](https://hosthatch.com/) | AS36351 | Yes | Yes | No | Their VPS location is: Sydney, AU - Equinix IBX SY3 Data Center.Their ISP is:SoftLayer network, which includes primary transit from Telstra and peering with Equinix, Pipe-IX, NSW-IX and Megaport. | - |
 | [Rimu hosting](http://rimuhosting.com) | - | Yes | Yes | Yes | Have servers in N.Z.; Sydney; London; and Dallas. Locations may vary, but quite happy with the specific Oz/NZ query. | - |
 
-
 ### Poland
 
 | **Company/ISP** | **ASN** | **Bridges** | **Relay** | **Exit** | **Comments** | **Last Updated** |
@@ -208,6 +207,13 @@ For network diversity and stronger anonymity, you should avoid providers and cou
 | [IQ PL](http://www.iq.pl/) | - | Yes | Yes | Yes | They allow running exit node on collocated dedicated server |  - |
 | [Slask DataCenter](https://sldc.eu/) | - | Yes | Yes | Yes | - | 21/02/2018 |
 
+### Portugal
+| **Company/ISP** | **ASN** | **Bridges** | **Relay** | **Exit** | **Comments** | **Last Updated** |
+|-------------------------|-------------|-----------------|--------------|-------------|---------------------|------------------------|
+| [vodafone.pt](https://vodafone.pt)Vodafone Portugal | 12353 | Yes | Yes | Yes | Fiber optical and 4G ISP. Can provide up to 1 Gbps of download and upload, and uses Vodafone C&W network and TATA to connect to the internet. IPv6 it's activated on all costumers. | 17/12/2020 |
+| [meo.pt](https://meo.pt)Meo-Altice | 8657 | Yes | Yes | No | Fiber Optical, xDSL and 4G ISP. Can provide up to 1 Gbps of download and upload, and uses CPRM and HurricaneEletric to connect to the internet. However, it throttles the connection to some websites, and can easy be overloaded. Some costumers don't have an IPv6 adress. | 17/12/2020 |
+| [nos.pt](https://nos.pt)NOS | 2860 | No | Yes | No | DOCSIS, Fiber optical and 4G ISP. Can provide up to ~900 Mbps of download and 20 Mbps of upload, and uses Cogent, HurricaneEletric, CPRM and TATA to connect to internet. However, it throttles a lot the connection, specially when their network is overloaded, but for national connections, they have a good speed. Don't have IPv6 at all. | 17/12/2020 |
+| [nowo.pt](https://nowo.pt)Nowo Communications | 13156 | Yes | Yes | Yes | DOCSIS and Fiber optical ISP. Can provide up to 500 Mbps of download and 500 Mbps of upload. Don't throttle the connection, and connects to TATA, Cogent, HurricaneEletric and CPRM. It's starting to have some IPv6 adresses. | 17/12/2020 |
 
 ### Romania
 
